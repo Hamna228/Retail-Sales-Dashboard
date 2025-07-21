@@ -88,6 +88,6 @@ Bar chart comparing total sales across:
 
 ---
 
-## 📸 Screenshot / Demo  
+## 📸 Screenshot 
 
 ![Retail Sales Dashboard](https://github.com/Hamna228/Retail-Sales-Dashboard/blob/main/Retail%20Sales%20Dshboard.png)
